@@ -1,0 +1,7 @@
+*.exe
+*.pdb
+*.manifest
+*.cache
+obj/
+bin/
+.vscode
